@@ -57,3 +57,32 @@ coverage.xml
 # Project specific
 .fastmcp/
 /CLAUDE.md
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+.env/
+
+# Testing cache
+.pytest_cache/
+*.coverage
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+
