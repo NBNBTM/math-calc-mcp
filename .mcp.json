@@ -1,0 +1,10 @@
+{
+    "title": "Mathematical Calculator",
+    "description": "A comprehensive MCP tool for symbolic math, statistics, and matrix operations.",
+    "version": "1.0.0",
+    "entrypoint": "calculator_server.py",
+    "dependencies": ["numpy", "scipy", "sympy"],
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
